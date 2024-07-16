@@ -10,5 +10,6 @@ In this project, you  performed analytics operations on an insurance database th
 |region| Which US region - NW, NE, SW, SE | integer (1,2,3 or 4 respectively)| 
 |charges| Annual Insurance charges in USD | float|
 
+
  
  
